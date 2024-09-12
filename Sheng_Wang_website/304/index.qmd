@@ -1,0 +1,7 @@
+---
+title: "Welcome to my personal website!"
+---
+
+My name is Vandy Wang. I am a third year student at University of Toronto. My majors are Statistics and Economics. Nice to meet you!
+
+
